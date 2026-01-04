@@ -8,12 +8,12 @@ import { getFunctions } from "firebase/functions";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBVQwBwdFoapoGIGhgSB6qzDOyeap_GN40",
+  apiKey: "AIzaSyBVQwBwdFoapoGIGhgSB6qzDOye*******",
   authDomain: "smartcampusplatform-ce718.firebaseapp.com",
-  projectId: "smartcampusplatform-ce718",
+  projectId: "smartcampusplatform-c****",
   storageBucket: "smartcampusplatform-ce718.appspot.com",
   messagingSenderId: "688341377206",
-  appId: "1:688341377206:web:8f294c8536416978e6c617"
+  appId: "1:688341377206:web:8f294c853641697*******"
 };
 
 // Initialize Firebase
